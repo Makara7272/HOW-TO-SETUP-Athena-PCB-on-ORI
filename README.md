@@ -10,4 +10,4 @@ Follow these steps to set up Athena PC
 
 ### Step 2: Firmware
 #### Open SErial Debug Assistant programme on computer check Port name is it connect to commputer yet (if you don't see it you can check the connection of USB wire or check USB shield with computer directly) and click on it when see it.
-#### Below "Stop Bits" Datas on the screen ( Acceleration x y z and roll pitch yaw). if we don't see the Datas try to flip the Recieve pin that connect with Athena shield.
+#### Below "Stop Bits" Datas on the screen ( Acceleration x y z and roll pitch yaw). if we don't see the Datas try to flip the Recieve pin that connect with Athena board.
